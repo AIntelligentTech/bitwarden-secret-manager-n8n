@@ -1,0 +1,32 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+.envrc
+
+# Never commit tokens
+BWS_ACCESS_TOKEN
+*_TOKEN
+*_SECRET
+*_KEY
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
