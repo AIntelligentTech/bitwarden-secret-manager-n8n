@@ -151,3 +151,4 @@ These commands write configuration to `~/.config/bws/config`. You only need to r
     - The installer successfully installed `bws` (for example to `/usr/local/bin/bws`).
     - The install location is present in your `PATH`.
   - Re-run `./install-bws.sh` if needed.
+# CI/CD Status
